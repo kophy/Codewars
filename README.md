@@ -1,6 +1,6 @@
 # Codewars
 
-**My Codewars Solutions** 
+*My Codewars Solutions* 
 
 - Checkpoint 1
 ```
@@ -13,5 +13,19 @@
   },
   "overall": "3kyu",
   "rank": "#1561"
+}
+```
+
+- Checkpoint 2
+```
+{
+  "date": "05/13/2017",
+  "completed kata": 90,
+  "languages": {
+    "Javascript": "3Kyu",
+    "Python": "3Kyu"
+  },
+  "overall": "3kyu",
+  "rank": "#1455"
 }
 ```
